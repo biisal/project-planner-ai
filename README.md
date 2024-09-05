@@ -1,6 +1,7 @@
 # Project Planner AI
 
-![Project Planner AI](https://private-user-images.githubusercontent.com/153633053/364439196-a785e632-3f13-41ff-a4fb-14570cf5b4da.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NjMzNDgsIm5iZiI6MTcyNTQ2MzA0OCwicGF0aCI6Ii8xNTM2MzMwNTMvMzY0NDM5MTk2LWE3ODVlNjMyLTNmMTMtNDFmZi1hNGZiLTE0NTcwY2Y1YjRkYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwNFQxNTE3MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hODRjZTcxNzE4OGU4NWM5MTk1MmFjMDU5ODE1OTBiMTYxYWRmZDM4NDAwZTk1Zjc0MDdhMTc5Y2UzM2Q4ODY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.x53KOflsA5o2DzGRKKhjw9ervG1D_v-ORTeFR-_wFpM)
+![Project-Planner-AI](https://github.com/user-attachments/assets/0547ff59-7f24-442a-8f09-9e2873d4dad2)
+
 
 Welcome to Project Planner AI, a web application that helps you generate project plans tailored to your skills using AI. This app is built with Next.js, Tailwind CSS, React, and MongoDB, and it leverages Gemini AI for project generation and Google OAuth for authentication.
 
